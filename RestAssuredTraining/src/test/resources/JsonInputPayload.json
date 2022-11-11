@@ -1,0 +1,10 @@
+{
+    "id": 0,
+    "employee_name": "Ali",
+    "employee_salary": 352000,
+    "employee_age": 32,
+    "Skills" : [
+      			"Java","Selenium","RestAssured","Cucumber","Python","Ruby"
+    			]
+  
+  }

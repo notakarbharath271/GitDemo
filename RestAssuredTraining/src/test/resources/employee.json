@@ -1,0 +1,6 @@
+{
+  "employee_name" : "Raju",
+  "employee_salary" : 350000,
+  "employe_age" : 32,
+  "skills" : [ "Java", "Selenium", ".Net", "Ruby", "RestAssured", "Cucumber" ]
+}
